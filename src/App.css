@@ -1,0 +1,24 @@
+.App {
+}
+.flex{
+  display: flex;
+    align-content: center;
+}
+.chart{
+  flex:1;
+}
+.Map{
+  margin: 1em auto;
+  align-items: center;
+}
+.titolo{
+    flex:1;
+    text-align: center;
+}
+.Nazione{
+    flex:1;
+    margin:1em;
+    text-align: center;
+    border: solid 1px lightblue;
+    padding: 1em;
+}
